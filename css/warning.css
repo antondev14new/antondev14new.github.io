@@ -1,0 +1,107 @@
+.bgc{
+    background-color: #293145;
+}
+
+.central{
+    position: relative;
+    top:50px;
+
+                
+}
+
+.ctr{
+    align-content: center;
+}
+
+.formcolor{
+    background-color: White;
+}
+
+#square {
+	width: 130px;
+	height: 130px;
+	background: -moz-radial-gradient(center, ellipse cover, rgb(255,255,255) 0%, rgb(226,226,226) 58%, rgb(170,170,170) 100%); /* FF3.6-15 */
+	background: -webkit-radial-gradient(center, ellipse cover, rgb(255,255,255) 0%,rgb(226,226,226) 58%,rgb(170,170,170) 100%); /* Chrome10-25,Safari5.1-6 */
+}
+
+
+.pink{
+	 box-shadow:0 0 15px #8e44ad;
+  border:1px solid #8e44ad;
+}
+
+.white{
+	 box-shadow:0 0 15px white;
+  border:1px solid white;
+}
+
+.red{
+	 box-shadow:0 0 15px #CD2626;
+  border:1px solid #CD2626;
+}
+
+.blue{
+	 box-shadow:0 0 15px #3498db;
+  border:1px solid #3498db;
+}
+
+
+
+.vihod{
+	position: relative;
+	top: 29px;
+	width: 115px;
+	height: 72px;
+}
+
+.centr{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.da{
+    width:150px;
+    height:150px;
+    background:#f30;
+    display: block;
+    opacity: 1;
+    -webkit-transform: scale(1,1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+    -moz-transform: scale(1,1);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 550ms;
+}
+.da:hover {
+    -webkit-transform: scale(1.2,1.2);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+    -moz-transform: scale(1.2,1.2);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 550ms;
+}
+
+.txt{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 11px;
+
+}
+
+
+.otsrow1{
+	position: relative;
+	top: 20px;
+}
+
+.otsrow2{
+	position: relative;
+	top: 40px;
+}
+
+.otsrow3{
+	position: relative;
+	top: 60px;
+}
